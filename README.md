@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanula</h1>
 <h3 align="center">I'm a dedicated fullstack developer from Sri Lanka, driven by a deep passion for creating captivating user experiences</h3>
 
-<img align="center" width="1400" height="350" alt="coding" src="https://preview.redd.it/n8agw6z2smyb1.gif" />
+<img align="center" width="1400" height="350" alt="coding" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanula12&label=Profile%20views&color=0e75b6&style=flat" alt="sanula12" /> </p>
 
