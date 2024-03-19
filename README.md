@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanula</h1>
 <h3 align="center">I'm a dedicated fullstack developer from Sri Lanka, driven by a deep passion for creating captivating user experiences</h3>
 
+<img align="center" width="1400" height="350" alt="coding" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanula12&label=Profile%20views&color=0e75b6&style=flat" alt="sanula12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanula12" alt="sanula12" /></a> </p>
