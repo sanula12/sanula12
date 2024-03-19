@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanula</h1>
 <h3 align="center">I'm a dedicated fullstack developer from Sri Lanka, driven by a deep passion for creating captivating user experiences</h3>
 
-<img align="center" width="1400" height="350" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw0Lz5LOatvow9_ESqDGQdnL&ust=1710960255606000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCe5ub9gIUDFQAAAAAdAAAAABAY" />
+<img align="center" width="1400" height="350" alt="coding" src="https://images.app.goo.gl/q66Aazrn6NDi2pzH8" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanula12&label=Profile%20views&color=0e75b6&style=flat" alt="sanula12" /> </p>
 
