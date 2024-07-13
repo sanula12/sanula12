@@ -25,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg" alt="three.js" width="40" height="40"/> 
 </a>
 <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
-    <img src="https://assets.codepen.io/16327/gsap-greensock-logo.svg" alt="GSAP" width="40" height="40"/> 
+    <img src="[https://assets.codepen.io/16327/gsap-greensock-logo.svg](https://vectorwiki.com/images/vvUne__gsap-greensock.svg)" alt="GSAP" width="40" height="40"/> 
 </a>
 
 
