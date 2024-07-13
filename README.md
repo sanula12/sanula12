@@ -25,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/files/icon.svg" alt="three.js" width="40" height="40"/> 
 </a>
    <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GSAP_logo.svg/1024px-GSAP_logo.svg.png" alt="GSAP" width="40" height="40"/> 
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/GSAP_logo.svg/1024px-GSAP_logo.svg.png](https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png)" alt="GSAP" width="40" height="40"/> 
 </a>
 
 
