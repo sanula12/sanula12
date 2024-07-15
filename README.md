@@ -34,10 +34,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
 </a>
 
-<a href="https://www.heidisql.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/HeidiSQL_logo.png" alt="HeidiSQL" width="40" height="40"/>
-</a>
-
 
 
 
