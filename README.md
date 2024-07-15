@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
 </a>
 <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
-    <img src="[[[[https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Greensock_Logo.svg/1024px-Greensock_Logo.svg.png](https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg)](https://assets.codepen.io/16327/internal/avatars/users/default.png?fit=crop&format=auto&height=256&version=1697554632&width=256)](https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg)](https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png)" alt="GSAP" width="40" height="40"/> 
+    <img src="https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" alt="GSAP" width="40" height="40"/> 
 </a>
 
 
