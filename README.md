@@ -35,8 +35,9 @@
 </a>
 
 <a href="https://www.heidisql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heidisql/heidisql-original.svg" alt="HeidiSQL" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/HeidiSQL_logo.png" alt="HeidiSQL" width="40" height="40"/>
 </a>
+
 
 
 
