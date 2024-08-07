@@ -34,6 +34,10 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="40" height="40"/> 
 </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/> 
+</a>
+
 
 
 
