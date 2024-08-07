@@ -31,6 +31,9 @@
 <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
     <img src="https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" alt="GSAP" width="40" height="40"/> 
 </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+</a>
 
 
 
