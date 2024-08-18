@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **React Web**
 
-- 🌱 I’m currently learning **React,JSX,Tailwind**
+- 🌱 I’m currently learning **React,TypeScript,Tailwind**
 
 - 📫 How to reach me **sanula2021@gmail.com**
 
